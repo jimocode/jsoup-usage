@@ -1,0 +1,6 @@
+https://shankapi.ifeng.com/shanklist/_/getColumnInfo/_/dynamicFragment/6533133956403953664/1557620761000/20/3-35191-/getColumnInfoCallback?callback=getColumnInfoCallback&_=15576455037212
+https://shankapi.ifeng.com/shanklist/_/getColumnInfo/_/dynamicFragment/6533058916794777939/1557610035000/20/3-35191-/getColumnInfoCallback?callback=getColumnInfoCallback&_=15576466079944
+https://shankapi.ifeng.com/shanklist/_/getColumnInfo/_/dynamicFragment/6532973134721581056/1557582278000/20/3-35191-/getColumnInfoCallback?callback=getColumnInfoCallback&_=15576466330156
+https://shankapi.ifeng.com/shanklist/_/getColumnInfo/_/dynamicFragment/6532921281027784704/1557570054000/20/3-35191-/getColumnInfoCallback?callback=getColumnInfoCallback&_=15576466556068
+https://shankapi.ifeng.com/shanklist/_/getColumnInfo/_/dynamicFragment/6532799699873698711/1557543900000/20/3-35191-/getColumnInfoCallback?callback=getColumnInfoCallback&_=155764759880612
+https://shankapi.ifeng.com/shanklist/_/getColumnInfo/_/dynamicFragment/lastIten.id/new Date().getTime()/20/3-35191-/getColumnInfoCallback?callback=getColumnInfoCallback&_=155764759880612
